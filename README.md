@@ -1,5 +1,5 @@
 # The AirBnB Clone Project
-(![AirBnB Logo](https://github.com/ZeekJager/AirBnB_clone/assets/118669208/e9651256-2f86-450a-94c7-7d480c6bcb79))
+![AirBnB Logo](https://github.com/ZeekJager/AirBnB_clone/assets/118669208/e9651256-2f86-450a-94c7-7d480c6bcb79)
 
 ## Project Description
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
