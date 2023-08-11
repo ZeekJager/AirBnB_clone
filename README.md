@@ -2,14 +2,23 @@
 ![AirBnB Logo](https://github.com/ZeekJager/AirBnB_clone/assets/118669208/e9651256-2f86-450a-94c7-7d480c6bcb79)
 
 ## Project Description
+An AirBnB clone is a website or mobile application that replicates the features and functionalities of the popular vacation rental platform, AirBnB. It allows users to search for and book short-term accommodations such as apartments, houses, and rooms from hosts around the world. The clone typically includes features such as user profiles, messaging systems, booking calendars, payment gateways, and review systems. While there are many AirBnB clones available in the market, they may differ in terms of their pricing models, user interfaces, and additional features such as property management tools and marketing services.
+
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
 
 Data (python objects) generated are stored in a json file and can be accessed with the help of the json module in python
 
 ## Description of the command interpreter:
-The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
+A console is a command-line interface that allows users to interact with a software application through a series of text commands. In an AirBnB clone, the console can be used to manage various aspects of the application, such as user accounts, listings, reservations, and payments.
 
 This command line interpreter  serves as the frontend of the web app where users can interact with the backend which was developed with python OOP programming.
+
+Some common commands that can be executed in an AirBnB clone console include:
+
+The console can also be used to perform administrative tasks such as monitoring application performance, generating reports, and analyzing user data. Overall, the console is an essential tool for managing and maintaining an AirBnB clone application.
+The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
+
+
 
 Some of the commands available are:
 - show
@@ -120,21 +129,20 @@ Example:
 
 ```
 
-user@ubuntu:~/AirBnB$ ./console.py
+zekarias@zekarias-virtual-machine:~/AirBnB_clone$ ./console.py 
 (hbnb) create BaseModel
-49faff9a-6318-451f-87b6-910505c55907
-user@ubuntu:~/AirBnB$ ./console.py
+e1b1288b-c6b5-487b-8b6f-cbd18a685fb6
 
 ```
 
 or
 
 ```
-user@ubuntu:~/AirBnB$ ./console.py $ echo "create BaseModel" | ./console.py
+zekarias@zekarias-virtual-machine:~/AirBnB_clone$ ./console.py $ echo "create BaseModel" | ./console.py
 (hbnb)
-e37ebcd3-f8e1-4c1f-8095-7a019070b1fa
+40df892a-56ad-4745-a7c2-3d1e77a648fe
 (hbnb)
-user@ubuntu:~/AirBnB$ ./console.py
+zekarias@zekarias-virtual-machine:~/AirBnB_clone$ ./console.py
 ```
 
 ## Available commands and what they do
