@@ -1,5 +1,5 @@
 # The AirBnB Clone Project
-[![AirBnB Logo](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230811T080850Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8a0251035e0b422f2657987f34baeeda37938d281981e0a9c751629811793ac7)
+[![AirBnB Logo](![image](https://github.com/ZeekJager/AirBnB_clone/assets/118669208/e9651256-2f86-450a-94c7-7d480c6bcb79))
 
 ## Project Description
 This is the first part of the AirBnB clone project where we worked on the backend of the project whiles interfacing it with a console application with the help of the cmd module in python.
@@ -19,11 +19,11 @@ Some of the commands available are:
 - count
 
 And as part of the implementation of the command line interpreter coupled with the backend and file storage system, the folowing actions can be performed:
--   Creating new objects (ex: a new User or a new Place)
+-   Creating new objects (example: a new User or a new Place)
 -   Retrieving an object from a file, a database etc…
 -   Doing operations on objects (count, compute stats, etc…)
 -   Updating attributes of an object
--   Destroying an object
+-   Deleting an object
 
 ## How to start it
 These instructions will get you a copy of the project up and running on your local machine (Linux distro) for development and testing purposes.
